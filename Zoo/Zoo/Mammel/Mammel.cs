@@ -13,7 +13,7 @@ namespace Zoo.Mammel
         { }
         public override void reproduction()
         {
-            Console.WriteLine($" Mammels Giving Birth");
+            Console.WriteLine($"Mammels Giving Birth");
         }
         public override void FeedKids()
         {

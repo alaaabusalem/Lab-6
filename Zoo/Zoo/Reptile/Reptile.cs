@@ -20,7 +20,7 @@ namespace Zoo.Reptile
 
         public override void reproduction()
         {
-            Console.WriteLine("the Retile lays eggs");
+            Console.WriteLine("Retile lays eggs");
         }
 
         public override void Behaver()

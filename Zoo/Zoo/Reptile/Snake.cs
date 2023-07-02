@@ -15,9 +15,8 @@ namespace Zoo.Reptile
 
 		public override void Behaver()
 		{
-			base.Behaver();
-			Console.WriteLine("Snakes rely on venom to kill prey and aid in " +
-				"digestion, as well as a means of defense against attack.");
+	
+			Console.WriteLine("Snakes rely on venom to kill prey and aid in digestion, as well as a means of defense against attack.");
 		}
 	}
 }

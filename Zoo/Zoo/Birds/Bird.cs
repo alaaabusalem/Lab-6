@@ -29,7 +29,7 @@ namespace Zoo.Birds
 
 		public override void reproduction()
 		{
-			Console.WriteLine("Birds lay eggs. ");
+			Console.WriteLine("Birds lay eggs.");
 		}
 	}
 }
