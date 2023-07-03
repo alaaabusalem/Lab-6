@@ -6,7 +6,6 @@ this project will add some animals to your zoo depend in some categories as show
 
 ![diagram](ZooDiagram.drawio.png)
 
-
 animal is the base abstract class has three abstract method (parent)
 Mammel and Reptile and Bird are abstract classes that inherite from animal abstract class ahve some abstract methods and virtual methods.(parent and derived)
 Eagle and Ostrich  Giraffe and Lion and snake classes inherite from Bird class and override some methods(polymorphism ). derived
