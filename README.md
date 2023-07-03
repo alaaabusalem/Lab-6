@@ -11,3 +11,14 @@ Mammel and Reptile and Bird are abstract classes that inherite from animal abstr
 Eagle and Ostrich  Giraffe and Lion and snake classes inherite from Bird class and override some methods(polymorphism ). derived
 Giraffe and Lion classes inherite from Mammel class and override some methods(polymorphism ). derived
 Snake class inherite from Reptile class. derived
+
+![diagram](Lab7UML.svg)
+
+
+In C#, an interface is a language construct that defines a contract or a set of rules that a class must follow. It specifies a collection of methods, properties, events, and indexers that a class implementing the interface must provide.
+
+the Project contain Two Interfaces IPet and IJungelAnimal. Ipet implemented by Cat and Canary Classes, and IJungleAnimal implemented by Canary and Eagle, Ostrich, Giraffe, Lion, Snake classes
+
+
+
+
