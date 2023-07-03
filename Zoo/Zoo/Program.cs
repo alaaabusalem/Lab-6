@@ -14,8 +14,9 @@ namespace Zoo
 			zoo.AddAnimal(new Snake(" Soso Snake", "No Legs", "Meat"));
 			zoo.AddAnimal(new Giraffe("Kady Girrafe", "4", "Plants leaves", "Hair"));
 			zoo.AddAnimal(new Ostrich("Meme Ostrich", "2", "Plants"));
-		
-
+			zoo.AddAnimal(new Cat("Lili", "4", "Meat", "Hair") { Adoption = true }); ;
+			zoo.AddAnimal(new Canary("Si", "2", "grain") { Adoption = false }); ;
+			
 			string result = "";
 			
 			while (result !="5") {
