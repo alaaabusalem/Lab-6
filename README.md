@@ -11,12 +11,3 @@ Mammel and Reptile and Bird are abstract classes that inherite from animal abstr
 Eagle and Ostrich  Giraffe and Lion and snake classes inherite from Bird class and override some methods(polymorphism ). derived
 Giraffe and Lion classes inherite from Mammel class and override some methods(polymorphism ). derived
 Snake class inherite from Reptile class. derived
-
-
-
-
-
-
-
-
-
