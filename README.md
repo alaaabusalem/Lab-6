@@ -12,6 +12,8 @@ Eagle and Ostrich  Giraffe and Lion and snake classes inherite from Bird class a
 Giraffe and Lion classes inherite from Mammel class and override some methods(polymorphism ). derived
 Snake class inherite from Reptile class. derived
 
+# Lab-7
+
 ![diagram](Lab7UML.svg)
 
 
